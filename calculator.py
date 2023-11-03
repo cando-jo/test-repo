@@ -20,4 +20,3 @@ def odd(a):
         return True
 
 
-
