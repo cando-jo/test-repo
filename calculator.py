@@ -1,4 +1,4 @@
-def summ(a, b):
+def sum(a, b):
     return a + b
 
 
@@ -11,8 +11,6 @@ def multiply(a, b):
 def divide(a, b):
     return a / b
 
-def full_divide(a, b):
-    return a // b
 
 
 
