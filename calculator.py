@@ -15,5 +15,9 @@ def even(a):
     if a % 2 == 0:
         return True
 
+def odd(a):
+    if a % 2 != 0:
+        return True
+
 
 
