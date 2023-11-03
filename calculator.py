@@ -11,3 +11,8 @@ def multiply(a, b):
 def divide(a, b):
     return a / b
 
+def full_divide(a, b):
+    return a // b
+
+
+
